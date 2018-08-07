@@ -9,6 +9,6 @@ const getUser = (id, callback) => {
   }, 3000);
 };
 
-getUser(31, (user) => {
+getUser('3452', (user) => {
   console.log(user);
 });

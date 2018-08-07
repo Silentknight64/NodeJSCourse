@@ -1,7 +1,6 @@
 {
   "name": "05_Unit_testing",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "mocha **/*.test.js",
@@ -18,5 +17,6 @@
   },
   "dependencies": {
     "express": "^4.16.3"
-  }
+  },
+  "description": ""
 }
